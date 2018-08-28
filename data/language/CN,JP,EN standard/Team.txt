@@ -1,0 +1,37 @@
+﻿T1	サンパウロ  	圣保罗		Sao Paolo							
+T2	なんかつ  	南葛		Nankatsu							
+T3	にほん  	日本		Japan							
+01关	フルミネンセ  	弗卢米嫩塞	Fluminense							
+02关	コリンチャンス  科林蒂安	Corintia							
+03关	グレミオ  	格雷米奥	Gremio							
+04关	パルメイラス  	帕尔梅拉斯	Palmeira							
+05关	サントス  	桑托斯		Santos							
+06关	フラメンゴ  	弗拉门戈	Flamengo							
+07关	くにみ  	国见		Kunimi							
+08关	あきた  	秋田		Akita							
+09关	たつなみ  	立波		Tatsune							
+10关	むさし  	武藏		Musashi							
+11关	ふらの  	富良野		Furano							
+12关	とうほう  	东邦		Toho							
+13关	ローマ  	罗马		Roma							
+14关	ウルグアイ  	乌拉圭		Uruguay							
+15关	ハンブルガー  	汉堡		Hamburg							
+16关	にほん  	日本		Japan（NPC.）							
+17关	シリア  	叙利亚		Syrian							
+18关	ちゅうごく  	中国		China							
+19关	イラン  	伊朗		Iran							
+20关	きたちょうせん  北朝鲜		Nouth Korea							
+21关	サウジアラビア  沙特阿拉伯	Saudi Arabia							
+22关	かんこく  	韩国		South Korea							
+23关	バスコ·ダ·ガマ瓦斯科·达·伽马Vasco da Gamma							
+24关	ポーランド  	波兰		Polond							
+25关	イングランド  	英格兰		England							
+26关	ソビエト  	苏联		Soviet							
+27关	フランス  	法国		France							
+28关	メキシコ  	墨西哥		Mexico							
+29关	イタリア  	意大利		Italy							
+30关	オランダ  	荷兰		Holland							
+31关	アルゼンチン  	阿根廷		Agentina							
+32关	ニシドイツ  	西德		West Germany							
+33关	ブラジル  	巴西		Brazil							
+34关	ブラジル（2）	巴西（2）	Brazil（2）

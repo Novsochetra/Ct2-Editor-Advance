@@ -1,0 +1,203 @@
+﻿01，大空翼		つばさ		Tsubasa
+02，雷纳托{GK}		レナ―ト	Lennart 
+03，利马		リマ		Lima
+04，马里尼		マリ－ニ	Marini
+05，阿马拉		アマラウ	Amaral
+06，多托尔		ドト－ル	Dottil
+07，巴基斯塔		バチスタ	Battista
+08，塔哈马塔		タハマタ	Tahamata
+09，巴宾通		バビントン	Babinton
+0A，吉乌		ジウ		Gil
+0B，普拉通		プラトン	Platton
+0C，浦边反次		うらべ		Urabe
+0D，岸田猛		きしだ		Kishida
+0E，中山政男		なかやま	Nakayama
+0F，森崎有三{GK}	もリさき	Morisaki 
+10，高杉真吾		たかすぎ	Takasugu
+11，岬太郎		みさき		Misaki
+12，井泽守		いざわ		Izawa
+13，泷一		たき		Taki
+14，石崎了		いしざき	Ishizaki
+15，新田瞬		にった		Nitta
+16，来生哲兵		きすぎ		Kisugi
+17，立花政夫		まさお		Masao
+18，立花和夫		かずお		Kazuo
+19，佐野满		さの		Sano
+1A，日向小次郎		ひゅうが	Hyuga
+1B，早田诚		そうだ		Souta
+1C，次藤洋		じとう		Jitou
+1D，松山光		まつやま	Matsuyama
+1E，反町一树		そリまち	Sorimachi
+1F，泽田武志		さわだ		Sawada
+20，三杉淳		みすぎ		Misugi
+21，若林源三{GK}	わかばやし	Wakabayashi 
+22，若岛津健{GK}	わかしまづ	Wakashimazu 
+23，萨托尔斯蒂奇	サトルステギ	Satilst
+24，利贝里奥		リベリオ	Riverio
+25，达·席尔瓦		ダ·シルバ	Da Silva
+26，曼昂{GK}		メオン		Meon 
+27，托尼尼奥		トニ－ニョ	Toninho
+28，奈依		ネイ		Nei
+29，扎加罗		ザガロ		Zagalo
+2A，迪乌塞乌		ディウセウ	Dircil
+2B，卡洛斯		カルロス	Carlos
+2C，桑塔玛利亚		サンタマリア	Santamaria
+2D，杰托里奥		ジエト－リオ	Jethrio
+2E，次藤洋(国见)	じとう		Jitou
+2F，佐野满(国见)	さの		Sano
+30，立花政夫(秋田商)	まさお		Masao
+31，立花和夫(秋田商)	かずお		Kazuo
+32，早田诚(立波)	そうだ		Souta
+33，中西太一{GK}	なかにし	Nakanishi 
+34，三杉淳(武藏)	みすぎ		Misugi
+35，松山光(ふらの)	まつやま	Matsuyama
+36，日向小次郎(东邦)	ひゅうが	Hyuga
+37，反町一树(东邦)	そリまち	Sorimachi
+38，泽田(东邦)		さわだ		Sawada
+39，若岛津健(东邦){GK}	わかしまづ	Wakashimazu 
+3A，兰皮昂		ランピオン	Rampion
+3B，拉蒙·比克多利诺	ビクトリ－ノ	Victor
+3C，达·席尔瓦(URU.)	ダ·シルバ	Da Silva
+3D，卡佩罗曼		カペロマン	Kapilman
+3E，卡鲁茨		カルツ		Kaltz
+3F，梅兹		メッツァ	Metzer
+40，若林源三(汉堡){GK}	わかばやし	WakaBayashi 
+41，日向小次郎(NPC.J.)	ひゅうが	Hyuga
+42，新田瞬(NPC.J.)	にった		Nitta
+43，佐野满(NPC.J.)	さの		Sano
+44，岬太郎(NPC.J.)	みさき		Misaki
+45，三杉淳(NPC.J.)	みすぎ		Misugi
+46，立花政夫(NPC.J.)	まさお		Masao
+47，立花和夫(NPC.J.)	かずお		Kazuo
+48，次藤洋(NPC.J.)	じとう		Jitou
+49，石崎了(NPC.J.)	いしざき	Ishzaki
+4A，早田诚(NPC.J.)	そうだ		Souta
+4B，松山光(NPC.J.)	まつやま	Matsuyama
+4C，若岛津健(NPC.J.){GK}わかしまづ	Wakashimazu 
+4D，李汉内		リ•ハンネ	LiHan
+4E，李汉坤		リ•バンクン	Li Ba
+4F，夏			シャ		Sya
+50，吉姆		キム		Kim
+51，麦哈		マッハ－	Mach
+52，扎伊奇{GK}		ジャイッチ	Jaich 
+53，罗利玛		ロリマ－	Lorima
+54，罗伯逊		ロブソン	Robson
+55，贝莱夫		ベラエフ	Belaef
+56，拉辛{GK}		ラシン		Lashin 
+57，拿破仑		ナポレオン	Napoleon
+58，皮埃尔		ピエ―ル	Pierr
+59，埃斯帕尼亚		エスパ―ニャ	Espera
+5A，兰皮欧(ITA.)	ランピオン	Rampion
+5B，海尔南迪斯{GK}	ヘルナンデス	Hernandez 
+5C，依斯拉斯		イスラス	Islas
+5D，利布塔		リブタ		Ribla
+5E，帕斯卡尔		パスカル	Pascal
+5F，萨托尔斯蒂奇(AGT.)	サトルステギ	Satilst
+60，迪亚斯		ディアス	Dias
+61，巴宾通(AGT.)	バビントン	Babinton
+62，格尔班		ガルバン	Galvin
+63，施奈德		シェナイダ－	Schneider
+64，玛加斯		マ－ガス	Margis
+65，卡鲁茨(W.GE.)	カルツ		Kaltz
+66，梅兹(W.GE.)		メッツァ	Metzer
+67，谢斯塔		シェスタ－	Schister
+68，卡贝罗(W.GE.)	カペロマン	Kapilman
+69，穆勒{GK}		ミュ―ラ―	Muller 
+6A，卡洛斯(BRA.)	カルロス	Carlos
+6B，扎加罗(BRA.)	ザガロ		Zagalo
+6C，利贝里奥(BRA.)	リベリオ	Riverio
+6D，奈依(BRA.)		ネイ		Nei
+6E，桑塔玛利亚(BRA.)	サンタマリア	Santamaria
+6F，托尼尼奥(BRA.)	トニ－ニョ	Toninho
+70，多托尔(BRA.)	ドト－ル	Dottil
+71，阿马拉(BRA.)	アマラウ	Amaral
+72，迪乌塞乌(BRA.)	ディウセウ	Dircil
+73，杰托里奥(BRA.)	ジエト－リオ	Jethrio
+74，格尔迪斯{GK}	ゲルティス	Gertise 
+75，库因布拉		コインブラ	Coimbra	
+76，フルミの雑魚GK			Fluminense	
+77，フルミの雑魚DF、MF			Fluminense
+78，フルミの雑魚FW			Fluminense
+79，コリンの雑魚GK			Corintia	
+7A，コリンの雑魚DF、MF			Corintia
+7B，コリンの雑魚FW			Corintia
+7C，ケレミオの雑魚DF、MF		Gremio	
+7D，ケレミオの雑魚FW			Gremio
+7E，パルメの雑魚GK			Palmeira	
+7F，パルメの雑魚DF、MF			Palmeira
+80，パルメの雑魚FW			Palmeira
+81，サントスの雑魚GK			Santos	
+82，サントスの雑魚DF、MF		Santos
+83，サントスの雑魚FW			Santos
+84，フラメの雑魚GK			Flamengo
+85，フラメの雑魚DF、MF			Flamengo
+86，フラメの雑魚FW			Flamengo
+87，国见の雑魚GK			Kunimi
+88，国见の雑魚DF、MF			Kunimi
+89，国见の雑魚FW			Kunimi
+8A，秋田商の雑魚GK			Akita
+8B，秋田商の雑魚DF、MF			Akita
+8C，秋田商の雑魚FW			Akita
+8D，立波の雑魚DF、MF			Tatsune
+8E，立波の雑魚FW			Tatsune
+8F，武藏の雑魚GK			Musashi
+90，武藏の雑魚DF、MF			Musashi
+91，武藏の雑魚FW			Musashi
+92，富良野の雑魚GK			Furano
+93，富良野の雑魚DF、MF			Furano
+94，富良野の雑魚FW			Furano
+95，东邦の雑魚DF、MF			Toho
+96，东邦の雑魚FW			Toho
+97，罗马の雑魚GK			Roma
+98，罗马の雑魚DF、MF			Roma
+99，罗马の雑魚FW			Roma
+9A，乌拉圭の雑魚GK			Uruguay
+9B，乌拉圭の雑魚DF、MF			Uruguay
+9C，乌拉圭の雑魚FW			Uruguay
+9D，汉堡の雑魚DF、MF			Hamburg
+9E，汉堡の雑魚FW			Hamburg
+9F，叙利亚の雑魚GK			Syrian
+A0，叙利亚の雑魚DF、MF			Syrian
+A1，叙利亚の雑魚FW			Syrian
+A2，中国の雑魚GK			China
+A3，中国の雑魚DF、MF			China
+A4，中国の雑魚FW			China
+A5，伊朗の雑魚GK			Iran
+A6，伊朗の雑魚DF、MF			Iran
+A7，伊朗の雑魚FW			Iran
+A8，朝鲜の雑魚GK			Nouth Korea
+A9，朝鲜の雑魚DF、MF			Nouth Korea
+AA，朝鲜の雑魚FW			Nouth Korea
+AB，沙特の雑魚GK			Saudi Arabia
+AC，沙特の雑魚DF、MF			Saudi Arabia
+AD，沙特の雑魚FW			Saudi Arabia
+AE，韩国の雑魚GK			South Korea
+AF，韩国の雑魚DF、MF			South Korea
+B0，韩国の雑魚FW			South Korea
+B1，バスコの雑魚GK			Vasco da Gamma
+B2，バスコの雑魚			Vasco da Gamma
+B3，波兰の雑魚DF、MF			Polond
+B4，波兰の雑魚FW			Polond	
+B5，英格兰の雑魚GK			England
+B6，英格兰の雑魚DF、MF			England
+B7，英格兰の雑魚FW			England
+B8，苏维埃の雑魚DF、MF			Soviet
+B9，苏维埃の雑魚FW			Soviet
+BA，法国の雑魚GK			France
+BB，法国の雑魚DF、MF			France
+BC，法国の雑魚FW			France
+BD，墨西哥の雑魚GK			Mexico
+BE，墨西哥の雑魚DF、MF			Mexico
+BF，墨西哥の雑魚FW			Mexico
+C0，意大利の雑魚DF、MF			Italy
+C1，意大利の雑魚FW			Italy
+C2，荷兰の雑魚GK			Holland
+C3，荷兰の雑魚DF、MF			Holland
+C4，荷兰の雑魚FW			Holland
+C5，阿根廷の雑魚GK			Agentina
+C6，阿根廷の雑魚			Agentina
+C7，西德の雑魚				West Germany	 
+C8，雪崩松山
+C9，暴走迪亚斯
+CA，暴走施耐德
+CB，下半场武藏の雑魚

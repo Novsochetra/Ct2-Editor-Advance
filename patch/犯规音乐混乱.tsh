@@ -1,0 +1,14 @@
+﻿[Game]
+Name=天使之翼2
+
+[Author]
+Name=gambol2040
+
+[Function]
+Description=解决使用其它音乐时造成犯规音乐混乱的问题
+
+[Code]
+18068=4C,50,FD;
+3FD60=AC,FC,07,AD,12,06,C9,04,F0,03,4C,11,80,A0,0D,8C,FC,07,4C,11,80;
+
+[END]

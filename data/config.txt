@@ -1,0 +1,5 @@
+language=English;
+music=Off;
+color=16777215;
+BackgroundImage=2;
+Opacity=93;

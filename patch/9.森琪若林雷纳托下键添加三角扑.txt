@@ -1,0 +1,8 @@
+﻿[Name]<wfxg>[Name]
+[Description]<森琪，若林，雷纳托下键添加三角扑>[Description]
+[代码]
+
+3d2ec=c9 22;
+
+
+[结束]

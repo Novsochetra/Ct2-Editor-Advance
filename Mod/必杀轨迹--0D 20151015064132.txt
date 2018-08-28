@@ -1,0 +1,6 @@
+﻿作者:
+说明:
+文件:Rom:C:\Users\舜\Desktop\CT2(J).nes
+必杀轨迹--0D
+21F22=83 B5
+23593=F7 0C FA 97 BB F6 F7 0C FA 97 BB F6 F7 16 F9 02 07 32 49 36 00 FB 

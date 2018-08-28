@@ -1,0 +1,5 @@
+﻿程序需要net framework 4.0的支持
+net framework 4.0
+http://www.baidu.com/baidu?word=net%20framework%204.0&tn=myie2&ch=3
+
+﻿

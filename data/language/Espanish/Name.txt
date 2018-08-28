@@ -1,0 +1,192 @@
+﻿01 Ozora Tsubasa
+02 Renato
+03 Lima
+04 Marini
+05 Amaral
+06 Dottil
+07 Batista
+08 Tahamata
+09 Babington
+0A Gil
+0B Platon
+0C Urabe Hanji
+0D Kishida Takeshi
+0E Nakayama Masao
+0F Morisaki Yuzo
+10 Takasugi Shingo
+11 Misaki Taro
+12 Izawa Mamoru
+13 Taki Hajime
+14 Ishizaki Ryo
+15 Nitta Shun
+16 Kisugi Teppei
+17 Masao Tachibana
+18 Kazuo Tachibana
+19 Sano Mitsuru
+1A Kojiro Hyuga
+1B Soda Makoto
+1C Jitou
+1D Matsuyama Hikaru
+1E Sorimachi Kazuki
+1F Sawada Takeshi
+20 Misugi Jun
+21 Genzo Wakabayashi
+22 Ken Wakashimazu
+23 Satrustegi
+24 Riberio
+25 Da·Silva
+26 Claudio Meão
+27 Toninho
+28 Nei
+29 Zagalo
+2A Dirseu
+2B Carlos Santana
+2C Santamaria
+2D Jetorio
+2E Jito Hiroshi
+2F Sano Mitsuru
+30 Masao Tachibana
+31 Kazuo Tachibana
+32 Soda Makoto
+33 Nakanishi Taichi
+34 Misugi Jun
+35 Matsuyama Hikaru
+36 Kojiro Hyuga
+37 Sorimachi Kazuki
+38 Sawada Takeshi
+39 Ken Wakashimazu
+3A Rampion
+3B Ramon Victorino
+3C Da·Silva
+3D Theodor Capellmann
+3E Hermann Kaltz
+3F Mezza
+40 Genzo Wakabayashi
+41 Kojiro Hyuga
+42 Nitta Shun(Japon)
+43 Sano Mitsuru(Japon)
+44 Misugi Jun(Japon)
+45 Misaki Taro(Japon)
+46 Masao Tachibana(Japon)
+47 Kazuo Tachibana(Japon)
+48 Jito Hiroshi(Japon)
+49 Ishizaki Ryo(Japon)
+4A Soda Makoto(Japon)
+4B Matsuyama Hikaru(Japon)
+4C Ken Wakashimazu(Japon)
+4D Hanne Lee
+4E Bankun Lee
+4F Sya
+50 Kim
+51 Mach
+52 Jaisch
+53 Lorimer
+54 Steve Robson
+55 Beraev
+56 Rashin
+57 Lui Napoleon
+58 Elle Sid Pierre
+59 España
+5A Rampion(Italia)
+5B Gino Hernandez
+5C Islas
+5D Libuta
+5E Alan Pascal
+5F Satrustegi(Argentina)
+60 Juan Diaz
+61 Babington
+62 Luis Galvan
+63 Karl Heinz Schneider
+64 Manfred Margus
+65 Hermann Kaltz
+66 Mezza
+67 Franz Schester
+68 Theodor Capellmann
+69 Deuter Muller
+6A Carlos Santana(BRA.)
+6B Zagalo(BRA.)
+6C Riberio(BRA.)
+6D Nei(BRA.)
+6E Santamaria(BRA.)
+6F Toninho(BRA.)
+70 Dottil(BRA.)
+71 Amaral(BRA.)
+72 Dirceu
+73 Jetorio
+74 Elzo Gertize
+75 Arthur A. Coimbra
+76 Ozora Tsubasa(Japon)
+77 Yuzo(Japon)
+78 TakasugiJapon)
+79 Misaki(Japon)
+7A Izawa(Japon)
+7B Taki(Japon)
+7C Ishizaki(Japon)
+7D Nitta(Japon)
+7E Kisugi(Japon)
+7F第1关平民
+80第2关平民
+81第3关平民
+82第4关平民
+83第5关平民
+84第6关平民
+85第7关平民
+86第8关平民
+87第9关平民
+88第10关平民
+89第11关平民
+8A第12关平民
+8B第13关平民
+8C第14关平民
+8D第15关平民
+8E(无效)第16关平民
+8F第17关平民
+90第18关平民
+91第19关平民
+92第20关平民
+93第21关平民
+94第22关平民
+95第23关平民
+96第24关平民
+97第25关平民
+98第26关平民
+99第27关平民
+9A第28关平民
+9B第29关平民
+9C第30关平民
+9D第31关平民
+9E第32关平民
+9F第1关GK
+A0第2关GK
+A1第3关GK
+A2第4关GK
+A3第5关GK
+A4第6关GK
+A5第7关GK
+A6第8关GK
+A7第9关GK
+A8第10关GK
+A9第11关GK
+AA第12关GK
+AB第13关GK
+AC第14关GK
+AD第15关GK
+AE第16关GK
+AF第17关GK
+B0第18关GK
+B1第19关GK
+B2第20关GK
+B3第21关GK
+B4第22关GK
+B5第23关GK
+B6第24关GK
+B7第25关GK
+B8第26关GK
+B9第27关GK
+BA第28关GK
+BB第29关GK
+BC第30关GK
+BD第31关GK
+BE第32关GK
+BF第33关GK
+C0第34关GK

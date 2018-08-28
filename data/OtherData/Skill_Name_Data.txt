@@ -1,0 +1,86 @@
+﻿00 射门		シュ―ト			Shoot
+01 抽射		ボレ―シュ―ト			Volley Shoot
+02 头球		ヘディング			Heading
+03 旋转射门	ドライブシュート		Drive Shoot
+04 旋转倒钩	ドライブオーバーヘッド		Drive Overhead
+05 隼射		はやぶさシュート		Falcon Shoot 
+06 隼抽射	やぶさボレーシュート		Falcon Volley Shoot
+07 剃刀射门	カミソリシュート		Kamisori Shoot
+08 空中飓风	スカイラブハリケーン		Skylab Hurricane
+09 双人射门	ツインシュート			Twin Shoot
+10 双人飓风	スカイラブツインシュート	Skylab Twin Shoot
+11 猎鹰射门	イーグルシュート		Eagle Shoot
+12 猛虎射门	タイガーシュート		Tiger Shoot
+13 新猛虎射门	ネオ·タイガーシュート		New Tiger Shoot
+14 倒钩		オーバーヘッドキック		Overhead Kick
+15 强力倒钩	ハイパーオーバーヘッド		Hyper Overhead
+16 岬跳抽射	ジャンピングボレーシュート	Jumping Volley Shot
+17 旋转虎射	ドライブタイガー		Drive Tiger
+18 飓风射门	サイクロン			Cyclone
+19 佐野配合射门	さのとのコンビプレイ		Sano Combi Play
+20 香蕉球	バナナシュート			Banana Shoot
+21 奈依联合射门	ブースターシュート		Booster Shoot
+22 幻象射门	ミラージュシュート		Mirage Shoot
+23 魔幻冲击炮	マッハシュート			Mach Shoot
+24 蛇形射门	サイドワインダー		Sidewinder
+25 曲尺射门	スライダーシュート		Slider Shoot
+26 加农炮射门	キャノンシュート		Cannon Shoot
+27 火焰射门	ファイヤーシュート		Fire Shoot
+28 炸弹头球	ダイナマイトヘッド		Dynamite Head
+29 大力头球	キャノンヘッド			Cannon Head
+30 火箭头球	ロケットヘッド			Rocket Head
+31 升龙脚	しゅうりょうきゃく		Up Dragon Kick
+32 脚后跟射门	ぜんてんシュート		Forward roll Shoot
+33 曲尺加农跑	スライダーキャノン		Slider-Cannon
+34 扎加罗射门	ダブルイール			Double Eel
+35 普通过人	ドリブル			Dribble
+36 挑球过人	ヒールリフト			Heel Lift
+37 直线盘突	ごういんなドリブル		Forcible Dribble
+38 魔幻突破	きえるフェイント		Vanish Feint
+39 分身过人	ぶんしんドリブル		Avatar Dribble
+40 高速突破	こうそくドリブル		Fast Dribble
+41 刺猬盘带	はりねずみドリブル		Hedgehog Dribble
+42 普通传球	パス				Pass
+43 旋转传球	ドライブパス			Drive Pass
+44 剃刀传球	カミソリパス			Kamisori Pass
+45 上旋传球	トップスピンパス		Top Spin Pass
+46 2过1配合	ワン・ツー			1.2
+47 黄金配合	ゴールデンコンビ		Golden Combi
+48 东邦配合	とうほうコンビ			Toho Combi
+49 双子攻击	ジェミニアタック		Gemini Attack
+50 埃菲尔攻击	エッフェルこうげき		Eiffel Attack
+51 普通挡球	ブロック			Block
+52 脸部挡球	がんめんブロック		Face Block
+53 高空挡球	スカイラブブロック		Skylab Block
+54 大力挡球	パワーブロック			Power Block
+55 普通铲球	タックル			Tackle
+56 高空铲球	スカイラブタックル		Skylab Tackle
+57 剃刀铲球	カミソリタックル		Kamisori Tackle
+58 大力铲球	パワータックル			Power Tackle
+59 猛虎铲球	タイガータックル		Tiger Tackle
+60 铲球(暴)	タックル(暴)			Tackle(violence)
+61 普通拦截	パスカット			Passcut
+62 高空断球	スカイラブパスカット		Skylab Passcut
+63 停球		トラップ			Trap
+64 漏球		スル―				Through
+65 解围		クリア―			Clear
+66 解围（暴）	クリア―（暴）			Clear（violence）
+67 争抢		せりあい			Compete
+68 争抢（暴）	せりあい（暴）			Compete
+69 跟随		フォロ―			Follow
+70 接球		キャッチング			Catching
+71 旋转扑救     ロ―リングセ―ブ		Rolling Save
+72 分身扑救	ぶんしんセ―ブ			Avatar Save
+73 大回转扑救   だいかいてんセ―ブ		Dark Illusion
+74 击球		パンチング			Punching
+75 三角扑	さんかくとび			△ Jump
+76 敏锐的	するどい			Sharp（Critical）
+77 快速的	すばやく			Quick（Critical）
+78 强烈的	きょうれつな			Critical
+79 漂亮的	うまい				Nice（Critical）
+80 强烈的	きょうれつな			Critical
+81 传中		センタリング			Centering
+82 点球		ペナルティキック		Penalty Kick
+83 球		ボ―ル				Ball
+84 得分		ゴ―ル				Goal
+85 呔		タイ！				Tai！

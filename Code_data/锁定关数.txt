@@ -1,0 +1,7 @@
+﻿锁定关数。
+487E-4880
+4C XX XX 引空地址。
+
+A5 26 C9 17 B0 04 A9 17 85 26 C9 06 4C 72 A8 BD
+
+来自土耳其高手HEROY的The darkness of the King改版。

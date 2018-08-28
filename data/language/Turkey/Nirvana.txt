@@ -1,0 +1,57 @@
+﻿01 旋转射门	ドライブシュート		Drive Shoot
+02 旋转倒钩	ドライブオーバーヘッド		Drive Overhead
+03 隼射		はやぶさシュート		Falcon Shoot 
+04 隼抽射	やぶさボレーシュート		Falcon Volley Shoot
+05 剃刀射门	カミソリシュート		Kamisori Shoot
+06 空中飓风	スカイラブハリケーン		Skylab Hurricane
+07 双人射门	ツインシュート			Twin Shoot
+08 双人飓风	スカイラブツインシュート	Skylab Twin Shoot
+09 猎鹰射门	イーグルシュート		Eagle Shoot
+10 猛虎射门	タイガーシュート		Tiger Shoot
+11 新猛虎射门	ネオ·タイガーシュート		New Tiger Shoot
+12 倒钩		オーバーヘッドキック		Overhead Kick
+13 强力倒钩	ハイパーオーバーヘッド		Hyper Overhead
+14 岬跳抽射	ジャンピングボレーシュート	Jumping Volley Shot
+15 旋转虎射	ドライブタイガー		Drive Tiger
+16 飓风射门	サイクロン			Cyclone
+17 佐野配合射门	さのとのコンビプレイ		Sano Combi Play
+18 香蕉球	バナナシュート			Banana Shoot
+19 奈依联合射门	ブースターシュート		Booster Shoot
+20 桑塔纳幻象	ミラージュシュート		Mirage Shoot
+21 魔幻冲击炮	マッハシュート			Mach Shoot
+22 蛇形射门	サイドワインダー		Sidewinder
+23 曲尺射门	スライダーシュート		Slider Shoot
+24 加农炮射门	キャノンシュート		Cannon Shoot
+25 火焰射门	ファイヤーシュート		Fire Shoot
+26 炸弹头球	ダイナマイトヘッド		Dynamite Head
+27 大力头球	キャノンヘッド			Cannon Head
+28 火箭头球	ロケットヘッド			Rocket Head
+29 升龙脚	しゅうりょうきゃく		Up Dragon Kick
+30 脚后跟射门	ぜんてんシュート		Forward roll Shoot
+31 曲尺加农炮	スライダーキャノン		Slider-Cannon
+32 扎加罗射门	ダブルイール			Double Eel
+33 旋转传球	ドライブパス			Drive Pass
+34 剃刀传球	カミソリパス			Kamisori Pass
+35 上旋传球	トップスピンパス		Top Spin Pass
+36 挑球过人	ヒールリフト			Heel Lift
+37 直线盘突	ごういんなドリブル		Forcible Dribble
+38 魔幻突破	きえるフェイント		Vanish Feint
+39 分身过人	ぶんしんドリブル		Avatar Dribble
+40 高速突破	こうそくドリブル		Fast Dribble
+41 刺猬盘带	はりねずみドリブル		Hedgehog Dribble
+42 黄金配合	ゴールデンコンビ		Golden Combi
+43 东邦配合	とうほうコンビ			Toho Combi
+44 双子攻击	ジェミニアタック		Gemini Attack
+45 埃菲尔攻击	エッフェルこうげき		Eiffel Attack
+46 脸部挡球	がんめんブロック		Face Block
+47 高空挡球	スカイラブブロック		Skylab Block
+48 大力挡球	パワーブロック			Power Block
+49 高空铲球	スカイラブタックル		Skylab Tackle
+50 剃刀铲球	カミソリタックル		Kamisori Tackle
+51 大力铲球	パワータックル			Power Tackle
+52 猛虎铲球	タイガータックル		Tiger Tackle
+53 高空断球	スカイラブパスカット		Skylab Passcut
+54 旋转扑	ローリングセーブ		Rolling Save
+55 分身扑	ぶんしんセーブ			Avatar Save
+56 大回转扑	だいかいてんセーブ		Dark Illusion
+57 三角扑	さんかくとび			△ Jump
